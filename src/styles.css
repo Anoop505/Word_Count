@@ -1,4 +1,24 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  background-color: aqua;
+  height: 60vh;
+  padding: 20px;
+  margin: 20px;
+}
+body {
+  box-sizing: border-box;
+  background-color: rgb(4, 3, 92);
+}
+.App div {
+  font-style: sans-serif;
+  font-size: 20px;
+  margin: 15px;
+  font-weight: 500;
+  color: rgb(55, 7, 165);
+}
+textarea {
+  border-radius: 2%;
+  min-width: 400px;
+  min-height: 50px;
 }
